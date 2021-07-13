@@ -1,0 +1,97 @@
+body{
+  /* font-family: 'Otomanopee One', sans-serif; */
+}
+h1{
+  font-family: 'Otomanopee One', sans-serif;
+}
+h2{
+  font-family: 'Yomogi', cursive;
+}
+h3{
+  text-align: center;
+  padding-bottom: 3%;
+}
+#title{
+  background-color: #B3E55E;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+}
+#about{
+  background-color: #93D9A3;
+  padding:2% 2%;
+  position: relative;
+}
+#video-link{
+  background-color: #C9E4C5;
+  padding: 2% 2% 2% 2%;
+  position: relative;
+}
+#text{
+  background-color: #01937C;
+  color: #ffff;
+  text-align: center;
+  padding: 8% 8% 8% 8%;
+}
+#faq{
+  background-color: #A9F1DF;
+  padding: 6% 6% 6% 6%;
+}
+#intrested{
+  background-color: #334443;
+  color: #ffff;
+  padding: 5% 5% 5% 5%;
+}
+#footer{
+  background-color: #CAF7E3;
+}
+.title-text{
+  padding:2% 0 7% 0;
+}
+.title-button{
+  text-align: center;
+  padding-bottom: 3%;
+}
+.navbar{
+  padding-bottom: 50px;
+}
+.btn{
+ margin: auto;
+}
+.title-img{
+  padding-left: 250px;
+  width: 80%;
+}
+
+.about-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  width: 100%;
+}
+.icon:hover{
+  color:  #B3E55E;
+}
+.link{
+  width: 240px;
+  border-radius: 10%;
+}
+.link-box{
+  padding: 0% 4% 4% 4%;
+    padding-bottom: 4%;
+}
+.intrested-button{
+  text-align: center;
+}
+.footer-div{
+  text-align: center;
+  padding: 2% 2% 2% 2%;
+  letter-spacing: 7px;
+}
+.footer-div2{
+  text-align: center;
+  padding: 2% 2% 2% 2%;
+}
